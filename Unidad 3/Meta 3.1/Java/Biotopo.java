@@ -1,10 +1,17 @@
 public class Biotopo {
-
 	private String nombre;
 	private Ecosistema ecosistema;
 
 	public Biotopo(String nombre) {
 		this.nombre = nombre;
+	}
+
+	public void setEcosistema(Ecosistema ecosistema) {
+		this.ecosistema = ecosistema;
+	}	
+
+	public Ecosistema getEcosistema() {
+		return ecosistema;
 	}
 
 	public String getNombre() {
@@ -13,14 +20,6 @@ public class Biotopo {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
-	}
-
-	public Ecosistema getEcosistema() {
-		return ecosistema;
-	}
-
-	public void setEcosistema(Ecosistema ecosistema) {
-		this.ecosistema = ecosistema;
 	}
 
 	@Override

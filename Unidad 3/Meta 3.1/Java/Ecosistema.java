@@ -1,22 +1,14 @@
 import java.util.*;
 
-public class Ecosistema {
-	private String nombre;
+public class Ecosistema extends SistemaBiologico {
+
 	private Vector<Biosenosis> biosenosis;
 	private Vector<Biotopo> biotopos;
 
 	public Ecosistema(String nombre) {
-		this.nombre = nombre;
+		super(nombre);
 		biosenosis = new Vector<Biosenosis>();
 		biotopos = new Vector<Biotopo>();
-	}
-
-	public String getNombre() {
-		return nombre;
-	}
-
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
 	}
 
 	public Vector<Biosenosis> getBiosenosis() {
@@ -37,7 +29,7 @@ public class Ecosistema {
 
 	@Override
 	public String toString() {
-		return "Ecosistema{" + "nombre=" + nombre + ", biosenosis=" + biosenosis + ", biotopos=" + biotopos + '}';
+		return "Ecosistema{" + "nombre=" + getNombre() + ", biosenosis=" + biosenosis + ", biotopos=" + biotopos + '}';
 	}
 
 }
