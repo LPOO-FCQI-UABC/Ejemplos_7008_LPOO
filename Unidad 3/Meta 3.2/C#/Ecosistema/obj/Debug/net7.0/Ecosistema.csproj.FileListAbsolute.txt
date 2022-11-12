@@ -1,0 +1,15 @@
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\bin\Debug\net7.0\Ecosistema.exe
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\bin\Debug\net7.0\Ecosistema.deps.json
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\bin\Debug\net7.0\Ecosistema.runtimeconfig.json
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\bin\Debug\net7.0\Ecosistema.dll
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\bin\Debug\net7.0\Ecosistema.pdb
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.csproj.AssemblyReference.cache
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.AssemblyInfoInputs.cache
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.AssemblyInfo.cs
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.csproj.CoreCompileInputs.cache
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.dll
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\refint\Ecosistema.dll
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.pdb
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\Ecosistema.genruntimeconfig.cache
+C:\Users\puga\Visual Studio Code\Ejemplos_7008_LPOO\Unidad 3\Meta 3.2\C#\Ecosistema\obj\Debug\net7.0\ref\Ecosistema.dll

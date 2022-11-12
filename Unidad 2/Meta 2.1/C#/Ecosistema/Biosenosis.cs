@@ -1,20 +1,23 @@
 using System;
-namespace Ecosistema
+
+public class Biosenosis
 {
-    public class Biosenosis {
-        private string nombre;
+    private string nombre;
 
-        public Biosenosis(string nombre) {
-            this.nombre = nombre;
-        }
+    public Biosenosis(string nombre)
+    {
+        this.nombre = nombre;
+    }
 
-        public string Nombre {
-            get { return this.nombre; }
-            set { this.nombre = value; }
-        }
+    public string Nombre
+    {
+        get { return this.nombre; }
+        set { this.nombre = value; }
+    }
 
-        override public string ToString() {
-            return "Biosenosis{" + "nombre=" + this.nombre + '}';
-        }   
+    override public string ToString()
+    {
+        return "Biosenosis{" + "nombre=" + this.nombre + '}';
     }
 }
+
