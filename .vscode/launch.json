@@ -2,18 +2,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            // Use IntelliSense to find out which attributes exist for C# debugging
-            // Use hover for the description of the existing attributes
-            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "type": "java",
+            "name": "Launch Taller51",
+            "request": "launch",
+            "mainClass": "Taller51",
+            "projectName": "Ejemplos_7008_LPOO_af4f7a2e"
+        },
+        {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            // If you have changed target frameworks, make sure to update the program path.
             "program": "${workspaceFolder}/Unidad 2/Meta 2.2/C#/Ecosistema/bin/Debug/net7.0/Ecosistema.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Unidad 2/Meta 2.2/C#/Ecosistema",
-            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
         },
